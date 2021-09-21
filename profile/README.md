@@ -14,32 +14,27 @@
 
 ### About Layer5
 
-<img src="/assets/about-layer5.svg" />
-
-  <p align="left">
 <h4>Community First</h4>
 
 The [Layer5](https://layer5.io) community represents the largest collection of service mesh projects and their maintainers in the world.
-  </p>
-  <p align="right">
-    <h4>Open Source First</h4>
+
+<h4>Open Source First</h4>
 
 We create and steward initiatives that press on the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
-  </p>
 
 # Organizations
 <table border="0" style="display:contents">
  <tr>
-   <td width=500px><h2 align="center">Layer5</h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p><a href="https://github.com/layer5io" alt="GitHub contributors">
+   <td width=500px><h2 align="center">Layer5</h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
-   <td width=500px><h2 align="center">Meshery</h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available</p><p><a href="https://github.com/meshery" alt="GitHub contributors">
+   <td width=500px><h2 align="center">Meshery</h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
   <tr></tr>
       <tr>
-   <td width=500px><h2 align="center">Service Mesh Performance</h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p><a href="https://github.com/service-mesh-performance" alt="GitHub contributors">
+   <td width=500px><h2 align="center">Service Mesh Performance</h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
-   <td width=500px><h2 align="center">Service Mesh Patterns</h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>a collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p><a href="https://github.com/service-mesh-patterns" alt="GitHub contributors">
+   <td width=500px><h2 align="center">Service Mesh Patterns</h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>a collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-patterns/service-mesh-patterns.svg" /></a></p></td>
  </tr>
    <tr>
