@@ -13,16 +13,19 @@
 </p>
 
 ### About Layer5
-  <div align="left" style="text-align:left;display:inline;float:left;position:relative;">
+
+<img src="/assets/about-layer5.svg" />
+
+  <p align="left">
 <h4>Community First</h4>
 
 The [Layer5](https://layer5.io) community represents the largest collection of service mesh projects and their maintainers in the world.
-  </td>
-  <div align="left" style="text-align:left;display:inline;float:left;position:relative;">
+  </p>
+  <p align="right">
     <h4>Open Source First</h4>
 
 We create and steward initiatives that press on the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
-  </div>
+  </p>
 
 # Organizations
 <table border="0" style="display:contents">
