@@ -12,15 +12,7 @@
 <img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
 </p>
 
-### About Layer5
-
-<h4>Community First</h4>
-
-The [Layer5](https://layer5.io) community represents the largest collection of service mesh projects and their maintainers in the world.
-
-<h4>Open Source First</h4>
-
-We create and steward initiatives that press on the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
+[Layer5](https://layer5.io) is _community-first_ and represents the largest collection of service mesh projects and their maintainers in the world. Layer5 is _open source-first_ in that we create and steward initiatives that push the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
 
 # Organizations
 <table border="0" style="display:contents">
