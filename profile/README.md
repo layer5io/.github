@@ -5,16 +5,24 @@
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+" alt="Help wanted across orgs">
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Alayer5io%20org%3Ameshery%20org%3Aservice-mesh-performance%20org%3Aservice-mesh-patterns%20label%3A%22help%20wanted%22"></a>
 
-<a href="https://github.com/layer5io/layer5" alt="GitHub contributors">
-<img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a>
+<a href="https://github.com/layer5io/layer5" alt="layer5 contributors">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/layer5io/layer5?label=layer5%20contributors"></a>
+
+<a href="https://github.com/meshery" alt="Meshery contributors">
+<img alt="Meshery contributors" src="https://img.shields.io/github/contributors/meshery/meshery?label=meshery%20contributors"></a>
+
 <a href="https://slack.layer5.io" alt="Slack">
 <img src="https://img.shields.io/badge/Slack-@layer5.svg?logo=slack" /></a>
+
 <a href="https://twitter.com/layer5" alt="Follow Layer5 on Twitter">
 <img src="https://img.shields.io/twitter/follow/layer5?label=Layer5&style=social" /></a>
+
 <a href="https://twitter.com/mesheryio" alt="Follow Meshery on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mesheryio?label=meshery&style=social"></a>
+
 <a href="https://twitter.com/smp_spec" alt="Follow Service Mesh Performance on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smp_spec?label=Service%20Mesh%20Performance&style=social"></a>
+
 <a href="https://github.com/layer5io/layer5" alt="License">
 <img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
 </p>
