@@ -5,11 +5,16 @@
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{font-family:'QanelasSoft-SemiBold';}
-	.st2{font-size:12px;}
+	.st2{font-size:14px;}
 	.st3{font-family:'QanelasSoft-Regular';}
+	.st4{fill:#FFFFFF;}
 </style>
 <rect x="6.4" y="12.1" class="st0" width="430" height="86"/>
 <text transform="matrix(1 0 0 1 6.4023 20.5215)"><tspan x="0" y="0" class="st1 st2">Community First</tspan><tspan x="0" y="28.8" class="st3 st2">The Layer5 community represents the largest collection of service mesh projects </tspan><tspan x="0" y="43.2" class="st3 st2">and their maintainers in the world.</tspan></text>
 <rect x="436.4" y="12.1" class="st0" width="430" height="86"/>
 <text transform="matrix(1 0 0 1 436.4023 20.5215)"><tspan x="0" y="0" class="st1 st2">Open Source First</tspan><tspan x="0" y="28.8" class="st3 st2">We create and steward initiatives that press on the service mesh-centric enve</tspan><tspan x="406.9" y="28.8" class="st3 st2">-</tspan><tspan x="0" y="43.2" class="st3 st2">lope of Cloud Native. Our shared commitment to the open source spirit compels </tspan><tspan x="0" y="57.6" class="st3 st2">our community members to push Layer5 projects forward.</tspan></text>
+<g>
+	<rect x="-10.1" y="-15.4" class="st4" width="897" height="137"/>
+	<path d="M886.4-14.9v136h-896v-136H886.4 M887.4-15.9h-898v138h898V-15.9L887.4-15.9z"/>
+</g>
 </svg>
