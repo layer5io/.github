@@ -41,7 +41,11 @@ style="margin:10px;" width="125px"
 alt="Meshery - Service Mesh Management Plane" align="left" /></a>
 <a href="https://meshery.io">Meshery</a> is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available today. 
 Meshery facilitates adopting, configuring, operating and managing performance of different service meshes and incorporates the collection and display of metrics from applications running on top of any service mesh. 
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery" alt="Help wanted in Meshery">
+<img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+org%3Ameshery'></a>
+<br />
 </p>
 <br />
 <p style="clear:both;">
@@ -50,7 +54,11 @@ Meshery facilitates adopting, configuring, operating and managing performance of
 style="float:left;margin:10px;" width="125px" 
 alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
+<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Flayer5'></a> 
+<br />
 </p>
 <br />
 <p style="clear:both;">
@@ -59,7 +67,12 @@ The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a compre
 style="float:left;margin:10px;" width="125px"
 alt="Service Mesh Performance Specification Index" align="left" /></a>
 The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a> (SMP) is a vendor-neutral specification for capturing details of environment and infrastructure details, service mesh and its configuration, service / application details, and bundling of statistical analysis of results.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
+
+<br />
 </p>
 <br />
 <p style="clear:both;">
@@ -69,7 +82,12 @@ style="float:left;margin:10px;" width="125px"
 alt="Image Hub" align="left" /></a>
 <a href="https://layer5.io/projects/image-hub">Image Hub</a> is a demo application which runs on <a href="https://docs.meshery.io/service-meshes/adapters/consul">Consul</a> and facilitates exploring WebAssembly modules used as Envoy Filters.
 Image Hub supports Envoy-based data planes. It is compatible with and can be deployed on Istio and Consul service meshes.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub" alt="Help wanted in Image Hub">
+<img alt="Help wanted in Image Hub" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Fimage-hub'></a>
+
+<br />
 </p>
 <br />
 <p style="clear:both;">
