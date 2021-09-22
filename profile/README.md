@@ -17,16 +17,16 @@
 # Organizations
 <table border="0" style="display:contents">
  <tr>
-   <td width=500px><h2 align="center">Layer5</h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
-   <td width=500px><h2 align="center">Meshery</h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
   <tr></tr>
       <tr>
-   <td width=500px><h2 align="center">Service Mesh Performance</h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Service Mesh Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
-   <td width=500px><h2 align="center">Service Mesh Patterns</h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>a collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-patterns/service-mesh-patterns.svg" /></a></p></td>
  </tr>
    <tr>
@@ -94,7 +94,12 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <h2><a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a></h2>
 <a href="https://meshery.io/community"><img alt="Layer5 Service Mesh Community" src="https://raw.githubusercontent.com/layer5io/meshery-operator/master/img/readme/meshery-operator-dark.svg" style="margin:10px;" width="125px" align="left" /></a>
 <a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a> is the multi-service mesh operator and implementation of MeshSync.
-<br /><br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery-operator'></a>
+
+<br />
 </p>
 <br />
 <p style="clear:both;">
@@ -103,7 +108,12 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 style="margin:10px;" width="125px"
 alt="Layer5" align="left" /></a>
 <a href="https://github.com/layer5io/learn-layer5">Learn Layer5</a> is a sample application for learning how service meshes work which also provides <a href="https://layer5.io/smi">SMI Conformance testing</a>.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5'></a>
+
+<br />
 </p>
 <br />
 <p style="clear:both;">
@@ -118,10 +128,15 @@ alt="Layer5" align="left" /></a>
 <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">GetNightHawk </a></h2>
 <a href="https://getnighthawk.dev/"><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-getnighthawk.png"
-style="margin:10px;" width="125px"
+style="margin:10px;" width="138px" height="98px"
 alt="Layer5" align="left" /></a>
 <a href="https://getnighthawk.dev/">Nighthawk</a> is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++. Meshery integrates Nighthawk as one of (currently) three choices of load generator for characterizing and managing the performance of service meshes and their workloads.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fgetnighthawk'></a>
+
+<br />
 </p>
 <br />
 <p style="clear:both;">
