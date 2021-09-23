@@ -159,31 +159,32 @@ Jump into our <a href="http://slack.layer5.io">Slack</a>! Our projects are commu
 </p>
 <br>
 
+
 ---
 
 <p align="center">Connect With Us</p>
 <p align="center"> 
 <a href="https://discuss.layer5.io/"><img alt="discourse_logo" 
-src="..\assets\social-icons\discourse.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/discourse.svg"></a>
 &nbsp; 
 <a href="mailto:community@layer5.io"><img alt="email_logo" 
-src="..\assets\social-icons\email.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.svg"></a>
 &nbsp;
 <a href="http://slack.layer5.io/"><img alt="slack_logo" 
-src="..\assets\social-icons\slack.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
 &nbsp;
 <a href="https://twitter.com/layer5"><img alt="twitter_logo" 
-src="..\assets\social-icons\twitter.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/twitter.svg"></a>
 &nbsp;
 <a href="https://github.com/layer5io"><img alt="github_logo" 
-src="..\assets\social-icons\github.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
 &nbsp;
 <a href="https://www.linkedin.com/company/layer5"><img alt="linkedIn_logo" 
-src="..\assets\social-icons\linkedIn.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/linkedIn.svg"></a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCFL1af7_wdnhHXL1InzaMvA"><img alt="youtube_logo" 
-src="..\assets\social-icons\youtube.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/youtube.svg"></a>
 &nbsp;
 <a href="https://hub.docker.com/u/layer5/"><img alt="docker_logo" 
-src="..\assets\social-icons\docker.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.svg"></a>
 </p>
