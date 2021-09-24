@@ -15,6 +15,7 @@
 [Layer5](https://layer5.io) is _community-first_ and represents the largest collection of service mesh projects and their maintainers in the world. Layer5 is _open source-first_ in that we create and steward initiatives that push the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
 
 # Organizations
+
 <table border="0" style="display:contents">
  <tr>
    <td width=500px><h2 align="center"><a href="https://github.com/layer5io">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io" alt="GitHub contributors">
@@ -56,6 +57,17 @@ alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
 <br />
 <br />
+<h2><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2>
+<a href="https://meshery.io"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
+style="margin:10px;" width="125px" 
+alt="Meshery - Service Mesh Patterns" align="left" /></a>
+
+<a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a> help you get the most out of Linkerd, Consul, App Mesh, Istio, Kuma, Open Service Mesh or <a href="https://layer5.io/service-mesh-landscape">any service mesh</a>, including those using Envoy and use of WebAssembly. Each pattern can be used as a template and is customizable.
+<br /><br /><br />
+
+</p>
+<br />
+<p style="clear:both;">
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
 <img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Flayer5'></a> 
 <br />
@@ -159,4 +171,3 @@ Jump into our <a href="http://slack.layer5.io">Slack</a>! Our projects are commu
 </p>
 <p>Find us on Twitter: <a href="https://twitter.com/layer5">@layer5</a>, <a href="https://twitter.com/mesheryio">@mesheryio</a> and <a href="https://twitter.com/smp_spec">@smp_spec</a>. <br>Subscribe on <a href="https://www.youtube.com/channel/UCFL1af7_wdnhHXL1InzaMvA?sub_confirmation=1">Youtube</a>
 </p>
-
