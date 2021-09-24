@@ -171,5 +171,34 @@ Jump into our <a href="http://slack.layer5.io">Slack</a>! Our projects are commu
 <p>
 <i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>
 </p>
-<p>Find us on Twitter: <a href="https://twitter.com/layer5">@layer5</a>, <a href="https://twitter.com/mesheryio">@mesheryio</a> and <a href="https://twitter.com/smp_spec">@smp_spec</a>. <br>Subscribe on <a href="https://www.youtube.com/channel/UCFL1af7_wdnhHXL1InzaMvA?sub_confirmation=1">Youtube</a>
+<br>
+
+---
+
+<p align="center">Connect With Us</p>
+<p align="center"> 
+<a href="https://discuss.layer5.io/"><img alt="discourse_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/discourse.svg"></a>
+&nbsp; 
+<a href="mailto:community@layer5.io"><img alt="email_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.svg"></a>
+&nbsp;
+<a href="http://slack.layer5.io/"><img alt="slack_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
+&nbsp;
+<a href="https://twitter.com/layer5"><img alt="twitter_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/twitter.svg"></a>
+&nbsp;
+<a href="https://github.com/layer5io"><img alt="github_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
+&nbsp;
+<a href="https://www.linkedin.com/company/layer5"><img alt="linkedIn_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/linkedIn.svg"></a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCFL1af7_wdnhHXL1InzaMvA"><img alt="youtube_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/youtube.svg"></a>
+&nbsp;
+<a href="https://hub.docker.com/u/layer5/"><img alt="docker_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.svg"></a>
 </p>
+
