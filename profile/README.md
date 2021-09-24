@@ -57,6 +57,9 @@ alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
 <br />
 <br />
+</p>
+<br />
+<br />
 <h2><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2>
 <a href="https://meshery.io"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
 style="margin:10px;" width="125px" 
