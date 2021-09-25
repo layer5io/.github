@@ -66,13 +66,14 @@ style="margin:10px;" width="125px"
 alt="Meshery - Service Mesh Patterns" align="left" /></a>
 
 <a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a> help you get the most out of Linkerd, Consul, App Mesh, Istio, Kuma, Open Service Mesh or <a href="https://layer5.io/service-mesh-landscape">any service mesh</a>, including those using Envoy and use of WebAssembly. Each pattern can be used as a template and is customizable.
-<br /><br /><br />
+<br />
+<br />
+<a href="https://github.com/service-mesh-patterns/service-mesh-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22" alt="Help wanted in Service Mesh Landscape">
+<img alt="Help wanted in Service Mesh Patterns" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-patterns%2Fservice-mesh-patterns'></a>
 
+<br />
 </p>
 <br />
-<p style="clear:both;">
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
-<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Flayer5'></a> 
 <br />
 </p>
 <br />
