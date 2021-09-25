@@ -57,8 +57,10 @@ alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
 <br />
 <br />
-</p>
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
+<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Flayer5'></a> 
 <br />
+</p>
 <br />
 <h2><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2>
 <a href="https://meshery.io"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
@@ -70,11 +72,8 @@ alt="Meshery - Service Mesh Patterns" align="left" /></a>
 <br />
 <a href="https://github.com/service-mesh-patterns/service-mesh-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22" alt="Help wanted in Service Mesh Landscape">
 <img alt="Help wanted in Service Mesh Patterns" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-patterns%2Fservice-mesh-patterns'></a>
+<br />
 
-<br />
-</p>
-<br />
-<br />
 </p>
 <br />
 <p style="clear:both;">
