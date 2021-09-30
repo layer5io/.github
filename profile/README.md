@@ -32,7 +32,7 @@
 <table border="0" style="display:contents">
  <tr>
    <!-- Layer5 -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io#projects">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 is an open source-centered service mesh company, representing the largest collection of service meshes in the world</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
    <!-- Meshery -->
    <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
