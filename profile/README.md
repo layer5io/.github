@@ -129,7 +129,7 @@ alt="Layer5" align="left" /></a>
 <a href="https://getnighthawk.dev/">Nighthawk</a> is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++. Meshery integrates Nighthawk as one of (currently) three choices of load generator for characterizing and managing the performance of service meshes and their workloads.
 <br />
 <br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fgetnighthawk" alt="Help wanted in Nighthawk">
 <img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fgetnighthawk'></a>
 <br />
 </p>
@@ -139,7 +139,7 @@ alt="Layer5" align="left" /></a>
 <a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a> is the multi-service mesh operator and implementation of MeshSync.
 <br />
 <br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery-operator" alt="Help wanted in service-mesh-performance">
 <img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery-operator'></a>
 <br />
 </p>
@@ -152,7 +152,7 @@ style="margin:10px;" width="125px"
 alt="Layer5" align="left" /></a>
 <a href="https://layer5.io/smi">SMI Conformance</a> includes all service mesh projects participating in the Service Mesh Interface specification. It is an easy-to-use, service mesh and SMI-specific tool to give service mesh projects and users a suite of repeatable conformance tests. <a href="https://github.com/layer5io/learn-layer5">Learn Layer5</a> is a sample application for learning how service meshes work which also provides SMI Conformance testing.
 <br /><br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5" alt="Help wanted in Learn Layer5">
 <img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5'></a>
 <br />
 </p>
