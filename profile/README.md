@@ -60,7 +60,7 @@ alt="Meshery - Service Mesh Management Plane" align="left" /></a>
 <br />
 <br />
 <a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery" alt="Help wanted in Meshery">
-<img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+org%3Ameshery'></a>
+<img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3Ahelp+wanted+org%3Ameshery'></a>
 <br />
 </p>
 <br />
@@ -73,7 +73,7 @@ The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a compre
 <br />
 <br />
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
-<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Flayer5'></a> 
+<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3Ahelp+wanted+repo%3Alayer5io%2Flayer5'></a> 
 <br />
 </p>
 <br />
@@ -101,7 +101,7 @@ The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh P
 <br />
 <br />
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
-<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
+<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3Ahelp+wanted+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
 
 <br />
 </p>
@@ -116,7 +116,7 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <br />
 <br />
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub" alt="Help wanted in Image Hub">
-<img alt="Help wanted in Image Hub" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A"help+wanted"+repo%3Alayer5io%2Fimage-hub'></a>
+<img alt="Help wanted in Image Hub" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3Ahelp+wanted+repo%3Alayer5io%2Fimage-hub'></a>
 
 <br />
 </p>
