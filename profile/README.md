@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
 </p>
 
-[Layer5](https://layer5.io) is _community-first_ and represents the largest collection of service mesh projects and their maintainers in the world. Layer5 is _open source-first_ in that we create and steward initiatives that push the service mesh-centric envelope of Cloud Native. Our shared commitment to the open source spirit compels our community members to push Layer5 projects forward.
+[Layer5](https://layer5.io)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace _developer_-defined infrastructure. We empower developers to change how they write applications, support _operators_ in rethinking how they run modern infrastructure, and enable _product owners_ to regain full-control over their product portfolio.
 
 # Organizations
 
