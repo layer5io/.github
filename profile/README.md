@@ -1,8 +1,8 @@
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg" width="75%" /></p>
+  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg" width="75%" /><br /></p>
 
 <p align="center">
-<a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+" alt="Help wanted across orgs">
+<a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3Alayer5labs+label%3A%22help+wanted%22+" alt="Help wanted across orgs">
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Alayer5io%20org%3Ameshery%20org%3Aservice-mesh-performance%20org%3Aservice-mesh-patterns%20label%3A%22help%20wanted%22"></a>
 
 <a href="https://github.com/meshery" alt="Meshery contributors">
