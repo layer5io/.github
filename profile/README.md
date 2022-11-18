@@ -36,9 +36,8 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3Alayer5labs+label%3A%22help+wanted%22+" alt="Help wanted across orgs">
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Alayer5io%20org%3Ameshery%20org%3Aservice-mesh-performance%20org%3Aservice-mesh-patterns%20label%3A%22help%20wanted%22"></a>
 
-<a href="https://github.com/meshery" alt="Meshery contributors">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/meshery/meshery"></a>
-
+<a href="https://github.com/meshery" alt="YouTube subscribers">
+<img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCFL1af7_wdnhHXL1InzaMvA"></a>
 
 <a href="https://slack.layer5.io" alt="Slack">
 <img src="https://img.shields.io/badge/Slack-@layer5.svg?logo=slack" /></a>
