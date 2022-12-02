@@ -50,9 +50,6 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 
 <a href="https://twitter.com/smp_spec" alt="Follow Service Mesh Performance on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smp_spec?label=Service%20Mesh%20Performance&style=social"></a>
-
-<a href="https://github.com/layer5io/layer5" alt="License">
-<img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
 </p>
 
 [Layer5](https://layer5.io)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace _developer_-defined infrastructure. We empower developers to change how they write applications, support _operators_ in rethinking how they run modern infrastructure, and enable _product owners_ to regain full-control over their product portfolio.
