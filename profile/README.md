@@ -2,12 +2,9 @@
       <picture align="center">
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg">
-         <img align="center" src="./.github/assets/images/layer5/layer5-no-trim.svg" alt="Shows a dark layer5 logo in light mode and a white logo in dark mode" width="55%"/>
+         <img align="center" src="./.github/assets/images/layer5/layer5-no-trim.svg" alt="Shows a dark layer5 logo in light mode and a white logo in dark mode" width="45%"/>
       </picture>
 </p>
-  
-  
----
 
 <p align="center">Connect With Us</p>
 <p align="center"> 
@@ -61,7 +58,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 
 See an <a href="https://layer5.io/community/handbook/repository-overview">overview of repositories</a> and projects by tech stack in the <a href="https://layer5.io/community/handbook/">Community Handbook</a>.
 
-# Organizations
+# GitHub Organizations
 
 <table border="0" style="display:contents">
  <tr>
