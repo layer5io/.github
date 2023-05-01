@@ -190,7 +190,7 @@ alt="Layer5" align="left" /></a>
 
 <p style="clear:both;">
 <h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
-<a href="https://layer5.io/cloud-native-management/meshmap"><img src="https://github.com/Younus-Saberi/.github/blob/Younus-Saberi-patch-1/assets/meshmap-color-icon.svg"
+<a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
 style="margin:10px;" width="125px" 
 alt="MeshMap - Visualization Of Service Mesh Topologies" align="left" /></a>
 <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a> is a tool which provides a visualization of service mesh topologies. It helps to understand the interactions between microservices in a service mesh, making it easier to identify potential issues and optimize performance. Additionally, it provides advanced features such as service filtering, labels, and annotations, allowing users to create customized views of their service mesh.
