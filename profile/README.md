@@ -50,7 +50,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 <a href="https://twitter.com/mesheryio" alt="Follow Meshery on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mesheryio?label=meshery&style=social"></a>
 
-<a href="https://twitter.com/smp_spec" alt="Follow Service Mesh Performance on Twitter">
+<a href="https://twitter.com/smp_spec" alt="Follow Cloud Native Performance on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smp_spec?label=Service%20Mesh%20Performance&style=social"></a>
 </p>
 
@@ -63,10 +63,10 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <table border="0" style="display:contents">
  <tr>
    <!-- Layer5 -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/layer5">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of service mesh standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/layer5">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of Cloud Native standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
    <!-- Meshery -->
-   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a cloud native management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><pAs a self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
   <tr></tr>
 <tr>
@@ -81,10 +81,10 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 </tr>
   <tr>
   <!-- Cloud Native Performance -->
-   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Service Mesh Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Cloud Native Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
   <!-- Cloud Native Patterns -->
-   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-patterns/service-mesh-patterns.svg" /></a></p></td>
  </tr>
    <tr>
@@ -96,7 +96,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <h2><a href="https://layer5.io/meshery">Meshery</a></h2>
 <a href="https://meshery.io"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg"
 style="margin:10px;" width="125px" 
-alt="Meshery - Service Mesh Management Plane" align="left" /></a>
+alt="Meshery - Cloud Native Management Plane" align="left" /></a>
 <a href="https://meshery.io">Meshery</a> is a cloud native management plane offering lifecycle management of more types of service meshes than any other tool available today. Meshery facilitates adopting, configuring, operating and managing performance of your cloud native infrastructure and incorporates the collection and display of metrics from applications running on top of any service mesh. 
 <br />
 <br />
@@ -113,31 +113,31 @@ alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
 <br />
 <br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Service Mesh Landscape">
-<img alt="Help wanted in Service Mesh Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5'></a> 
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Cloud Native Landscape">
+<img alt="Help wanted in Cloud Native Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5'></a> 
 <br />
 </p>
 <br />
 <p style="clear:both;">
-<h2><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2>
+<h2><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2>
 <a href="https://github.com/service-mesh-patterns/service-mesh-patterns"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
 style="margin:10px;" width="125px" 
-alt="Meshery - Service Mesh Patterns" align="left" /></a>
+alt="Meshery - Cloud Native Patterns" align="left" /></a>
 
-<a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a> help you get the most out of Linkerd, Consul, App Mesh, Istio, Kuma, Open Service Mesh or <a href="https://layer5.io/service-mesh-landscape">any service mesh</a>, including those using Envoy and use of WebAssembly. Each pattern can be used as a template and is customizable.
+<a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a> help you get the most out of Kubernetes or <a href="https://layer5.io/service-mesh-landscape">any CNCF project</a>, including those using Envoy and use of WebAssembly. Each pattern can be used as a template and is customizable.
 <br />
 <br />
-<a href="https://github.com/service-mesh-patterns/service-mesh-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22" alt="Help wanted in Service Mesh Patterns">
-<img alt="Help wanted in Service Mesh Patterns" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-patterns%2Fservice-mesh-patterns'></a>
+<a href="https://github.com/service-mesh-patterns/service-mesh-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22" alt="Help wanted in Cloud Native Patterns">
+<img alt="Help wanted in Cloud Native Patterns" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-patterns%2Fservice-mesh-patterns'></a>
 <br />
 
 </p>
 <br />
 <p style="clear:both;">
-<h2><a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a></h2>
+<h2><a href="https://layer5.io/projects/service-mesh-performance">Cloud Native Performance</a></h2>
 <a href="https://layer5.io/projects/service-mesh-performance"><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg"
 style="float:left;margin:10px;" width="125px"
-alt="Service Mesh Performance Specification Index" align="left" /></a>
+alt="Cloud Native Performance Specification Index" align="left" /></a>
 The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a> (SMP) is a vendor-neutral specification for capturing details of environment and infrastructure details, service mesh and its configuration, service / application details, and bundling of statistical analysis of results.
 <br />
 <br />
@@ -167,7 +167,7 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <a href="https://getnighthawk.dev/"><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-getnighthawk.png"
 style="margin:10px;" width="138px" height="98px"
 alt="Layer5" align="left" /></a>
-<a href="https://getnighthawk.dev/">Nighthawk</a> is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++. Meshery integrates Nighthawk as one of (currently) three choices of load generator for characterizing and managing the performance of service meshes and their workloads.
+<a href="https://getnighthawk.dev/">Nighthawk</a> is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++. Meshery integrates Nighthawk as one of (currently) three choices of load generator for characterizing and managing the performance of cloud native infrastructure and their workloads.
 <br />
 <br />
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fgetnighthawk" alt="Help wanted in Nighthawk">
@@ -176,8 +176,8 @@ alt="Layer5" align="left" /></a>
 </p>
 <p style="clear:both;">
 <h2><a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a></h2>
-<a href="https://meshery.io/community"><img alt="Layer5 Service Mesh Community" src="https://raw.githubusercontent.com/layer5io/meshery-operator/master/img/readme/meshery-operator-dark.svg" style="margin:10px;" width="125px" align="left" /></a>
-<a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a> is the multi-service mesh operator and implementation of MeshSync.
+<a href="https://meshery.io/community"><img alt="Layer5 Community" src="https://raw.githubusercontent.com/layer5io/meshery-operator/master/img/readme/meshery-operator-dark.svg" style="margin:10px;" width="125px" align="left" /></a>
+<a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a> is the multi-cluster Kubernetes operator and implementation of MeshSync.
 <br />
 <br />
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery-operator" alt="Help wanted in service-mesh-performance">
@@ -186,7 +186,7 @@ alt="Layer5" align="left" /></a>
 </p>
 <br />
 <br />
-<p style="clear:both;">
+<!-- <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">Service Mesh Interface Conformance </a></h2>
 <a href="https://layer5.io/smi"><img src="https://github.com/layer5io/.github/blob/master/assets/checklist.svg"
 style="margin:10px;" width="125px"
@@ -196,7 +196,7 @@ alt="Layer5" align="left" /></a>
 <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5" alt="Help wanted in Learn Layer5">
 <img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5'></a>
 <br />
-</p>
+</p> -->
 
 <p style="clear:both;">
 <h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
