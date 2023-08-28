@@ -69,11 +69,21 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
    <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>It is a cloud native management plane offering lifecycle management of more types of service meshes than any other tool available</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
   <tr></tr>
-      <tr>
-  <!-- Service Mesh Performance -->
+<tr>
+    <!-- MeshMap -->
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages">MeshMap</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components. Using GitOps? Integrate advanced performance analysis into your pipeline.</p><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
+<img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
+      <!-- Layer5 Cloud -->
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Identity and multi-Meshery management.</p>
+     <p align="center"><a href="https://github.com/layer5io/meshery-cloud/graphs/contributors" alt="GitHub contributors">
+<!-- <img src="https://img.shields.io/github/contributors/layer5io/meshery-cloud.svg" /></a></p> -->
+   </td>
+</tr>
+  <tr>
+  <!-- Cloud Native Performance -->
    <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Service Mesh Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
-  <!-- Service Mesh Patterns -->
+  <!-- Cloud Native Patterns -->
    <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Service Mesh Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-patterns/service-mesh-patterns.svg" /></a></p></td>
  </tr>
