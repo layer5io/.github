@@ -17,8 +17,8 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.s
 <a href="http://slack.layer5.io/"><img alt="slack_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
 &nbsp;
-<a href="https://twitter.com/layer5"><img alt="twitter_logo" 
-src="https://github.com/layer5io/.github/blob/master/assets/social-icons/twitter.svg"></a>
+<a href="https://twitter.com/layer5"><img alt="x_logo" 
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/x.svg"></a>
 &nbsp;
 <a href="https://github.com/layer5io"><img alt="github_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
