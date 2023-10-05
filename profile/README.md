@@ -242,7 +242,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.s
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
 &nbsp;
 <a href="https://twitter.com/layer5"><img alt="x_logo" 
-src="https://github.com/Viveksati5143/.github/blob/twitter/assets/social-icons/x.svg"></a>
+src="https://github.com/layer5io/.github/blob/master/assets/social-icons/x.svg"></a>
 &nbsp;
 <a href="https://github.com/layer5io"><img alt="github_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
