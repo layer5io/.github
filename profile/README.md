@@ -18,7 +18,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.s
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
 &nbsp;
 <a href="https://twitter.com/layer5"><img alt="twitter_logo" 
-src="https://github.com/layer5io/.github/blob/master/assets/social-icons/twitter.svg"></a>
+src="https://github.com/Mohitsen11/.github/blob/fixing-twitter-icon/assets/social-icons/x.svg"></a>
 &nbsp;
 <a href="https://github.com/layer5io"><img alt="github_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
@@ -242,7 +242,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/email.s
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/slack.svg"></a>
 &nbsp;
 <a href="https://twitter.com/layer5"><img alt="twitter_logo" 
-src="https://github.com/layer5io/.github/blob/master/assets/social-icons/twitter.svg"></a>
+src="https://github.com/Mohitsen11/.github/blob/fixing-twitter-icon/assets/social-icons/x.svg"></a>
 &nbsp;
 <a href="https://github.com/layer5io"><img alt="github_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/github.svg"></a>
