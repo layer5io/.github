@@ -104,64 +104,62 @@ alt="Meshery - Cloud Native Management Plane" align="left" /></a>
 <img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery'></a>
 <br />
 </p>
-<br />
+
+
 <p style="clear:both;">
-<h2><a href="https://layer5.io/landscape">Service Mesh Landscape</a></h2>
-<a href="https://layer5.io/landscape"><img src="https://github.com/layer5io/.github/blob/master/assets/landscape.png"  
-style="float:left;margin:10px;" width="125px" 
-alt="Service Mesh Landscape Ecosystem" align="left"/></a>
-The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
-<br />
-<br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Cloud Native Landscape">
-<img alt="Help wanted in Cloud Native Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5'></a> 
-<br />
+<h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
+<a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
+style="margin:10px;" width="125px" 
+alt="MeshMap - Collaborative Cloud Native Manager" align="left" /></a>
+Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a>to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations.
+<br /><br /><br />
 </p>
 <br />
+
 <p style="clear:both;">
 <h2><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2>
 <a href="https://github.com/service-mesh-patterns/service-mesh-patterns"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
 style="margin:10px;" width="125px" 
 alt="Meshery - Cloud Native Patterns" align="left" /></a>
-
 <a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a> help you get the most out of Kubernetes or <a href="https://layer5.io/service-mesh-landscape">any CNCF project</a>, including those using Envoy and use of WebAssembly. Each pattern can be used as a template and is customizable.
 <br />
 <br />
 <a href="https://github.com/service-mesh-patterns/service-mesh-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22" alt="Help wanted in Cloud Native Patterns">
 <img alt="Help wanted in Cloud Native Patterns" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-patterns%2Fservice-mesh-patterns'></a>
 <br />
-
 </p>
 <br />
+
+<p style="clear:both;">
+<h2><a href="https://meshery.io/catalog">Meshery Catalog</a></h2>
+<a href="https://meshery.io/catalog"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-catalog-badge.svg"  
+style="float:left;margin:10px;" width="125px" 
+alt="Cloud Native and Kubernetes Marketplace" align="left"/></a>
+The <a href="https://layer5.io/landscape">Meshery Catalog</a> functions much like a cloud marketplace, providing a user-friendly interface for browsing, discovering, and sharing configurations and patterns for cloud native infrastructure. With Meshery Catalog, you can easily find and deploy Kubernetes-based infrastructure and tools, making it easy to streamline your cloud native development and operations processes.
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery.io" alt="Help wanted in Meshery Catalog">
+<img alt="Help wanted in Meshery Catalog" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery.io'></a> 
+<br />
+</p>
+<br />
+
+
 <p style="clear:both;">
 <h2><a href="https://layer5.io/projects/service-mesh-performance">Cloud Native Performance</a></h2>
 <a href="https://layer5.io/projects/service-mesh-performance"><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg"
 style="float:left;margin:10px;" width="125px"
 alt="Cloud Native Performance Specification Index" align="left" /></a>
-The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a> (SMP) is a vendor-neutral specification for capturing details of environment and infrastructure details, service mesh and its configuration, service / application details, and bundling of statistical analysis of results.
+The <a href="https://layer5.io/projects/service-mesh-performance">Cloud Native Performance</a> (SMP) is a vendor-neutral specification for capturing details of environment and infrastructure details, cloud native infrastructure and its configuration, service / application details, and bundling of statistical analysis of results.
 <br />
 <br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in service-mesh-performance">
-<img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
-
-<br />
-</p>
-<br />
-<p style="clear:both;">
-<h2><a href="https://layer5.io/projects/image-hub">Image Hub</a></h2>
-<a href="https://layer5.io/projects/image-hub"><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-image-hub.png"
-style="float:left;margin:10px;" width="125px"
-alt="Image Hub" align="left" /></a>
-<a href="https://layer5.io/projects/image-hub">Image Hub</a> is a demo application which runs on <a href="https://docs.meshery.io/service-meshes/adapters/consul">Consul</a> and facilitates exploring WebAssembly modules used as Envoy Filters.
-Image Hub supports Envoy-based data planes. It is compatible with and can be deployed on Istio and Consul service meshes.
-<br />
-<br />
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub" alt="Help wanted in Image Hub">
-<img alt="Help wanted in Image Hub" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub'></a>
-
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance" alt="Help wanted in Cloud Native Performance">
+<img alt="Help wanted in Cloud Native Performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
 <br />
 </p>
 <br />
+
+
 <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">GetNightHawk </a></h2>
 <a href="https://getnighthawk.dev/"><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-getnighthawk.png"
@@ -186,6 +184,33 @@ alt="Layer5" align="left" /></a>
 </p>
 <br />
 <br />
+
+<p style="clear:both;">
+<h2><a href="https://layer5.io/projects/image-hub">Image Hub</a></h2>
+<a href="https://layer5.io/projects/image-hub"><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-image-hub.png"
+style="float:left;margin:10px;" width="125px"
+alt="Image Hub" align="left" /></a>
+<a href="https://layer5.io/projects/image-hub">Image Hub</a> is a demo application which runs on <a href="https://docs.meshery.io/service-meshes/adapters/consul">Consul</a> and facilitates exploring WebAssembly modules used as Envoy Filters.
+Image Hub supports Envoy-based data planes. It is compatible with and can be deployed on Istio and Consul service meshes.
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub" alt="Help wanted in Image Hub">
+<img alt="Help wanted in Image Hub" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fimage-hub'></a>
+
+<p style="clear:both;">
+<h2><a href="https://layer5.io/landscape">Service Mesh Landscape</a></h2>
+<a href="https://layer5.io/landscape"><img src="https://github.com/layer5io/.github/blob/master/assets/landscape.png"  
+style="float:left;margin:10px;" width="125px" 
+alt="Service Mesh Landscape Ecosystem" align="left"/></a>
+The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5" alt="Help wanted in Cloud Native Landscape">
+<img alt="Help wanted in Cloud Native Landscape" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flayer5'></a> 
+<br />
+</p>
+<br />
+
 <!-- <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">Service Mesh Interface Conformance </a></h2>
 <a href="https://layer5.io/smi"><img src="https://github.com/layer5io/.github/blob/master/assets/checklist.svg"
@@ -197,16 +222,6 @@ alt="Layer5" align="left" /></a>
 <img alt="Help wanted in service-mesh-performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Flearn-layer5'></a>
 <br />
 </p> -->
-
-<p style="clear:both;">
-<h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
-<a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
-style="margin:10px;" width="125px" 
-alt="MeshMap - Collaborative Cloud Native Manager" align="left" /></a>
-Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a>to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations.
-<br /><br />
-</p>
-<br />
 
 <p style="clear:both;">
 <h1><a name="contributing"></a><a name="community"></a> <a href="http://slack.layer5.io">Community</a> and <a href="https://github.com/layer5io/layer5/blob/master/CONTRIBUTING.md">Contributing</a></h1>
