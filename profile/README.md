@@ -56,6 +56,8 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 
 [Layer5](https://layer5.io)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace _developer_-defined infrastructure. We empower developers to change how they write applications, support _operators_ in rethinking how they run modern infrastructure, and enable _product owners_ to regain full-control over their product portfolio.
 
+<img src="../assets/layer5-community-stats.png" width="50%" />
+
 See an <a href="https://layer5.io/community/handbook/repository-overview">overview of repositories</a> and projects by tech stack in the <a href="https://layer5.io/community/handbook/">Community Handbook</a>.
 
 # GitHub Organizations
