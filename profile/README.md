@@ -81,7 +81,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 </tr>
   <tr>
   <!-- Cloud Native Performance -->
-   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Cloud Native Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, service mesh and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Cloud Native Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, cloud native infrastructure and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
   <!-- Cloud Native Patterns -->
    <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
@@ -97,7 +97,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <a href="https://meshery.io"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg"
 style="margin:10px;" width="125px" 
 alt="Meshery - Cloud Native Management Plane" align="left" /></a>
-<a href="https://meshery.io">Meshery</a> is a cloud native management plane offering lifecycle management of more types of service meshes than any other tool available today. Meshery facilitates adopting, configuring, operating and managing performance of your cloud native infrastructure and incorporates the collection and display of metrics from applications running on top of any service mesh. 
+<a href="https://meshery.io">Meshery</a> is a self-service engineering platform that enables collaborative design and operation of cloud native infrastructure.
 <br />
 <br />
 <a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery" alt="Help wanted in Meshery">
