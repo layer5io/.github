@@ -91,7 +91,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 </table>
 
 # Projects
-
+<!-- Meshery -->
 <p style="clear:both;">
 <h2><a href="https://layer5.io/meshery">Meshery</a></h2>
 <a href="https://meshery.io"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg"
@@ -104,8 +104,9 @@ alt="Meshery - Cloud Native Management Plane" align="left" /></a>
 <img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery'></a>
 <br />
 </p>
+<br />
 
-
+<!-- MeshMap -->
 <p style="clear:both;">
 <h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
 <a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
@@ -116,6 +117,7 @@ Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a>to dr
 </p>
 <br />
 
+<!-- Cloud Native Patterns -->
 <p style="clear:both;">
 <h2><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2>
 <a href="https://github.com/service-mesh-patterns/service-mesh-patterns"><img src="https://github.com/service-mesh-patterns/service-mesh-patterns/blob/master/.github/readme/images/service-mesh-pattern.png"
@@ -142,7 +144,6 @@ The <a href="https://layer5.io/landscape">Meshery Catalog</a> functions much lik
 <img alt="Help wanted in Meshery Catalog" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Ameshery%2Fmeshery.io'></a> 
 <br />
 </p>
-<br />
 
 
 <p style="clear:both;">
@@ -157,7 +158,6 @@ The <a href="https://layer5.io/projects/service-mesh-performance">Cloud Native P
 <img alt="Help wanted in Cloud Native Performance" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Aservice-mesh-performance%2Fservice-mesh-performance'></a>
 <br />
 </p>
-<br />
 
 
 <p style="clear:both;">
@@ -228,7 +228,7 @@ alt="Layer5" align="left" /></a>
 <p>Please do! Contributions, updates, <a href="/../../issues">discrepancy reports</a> and <a href="/../../pulls">pull requests</a> are welcome. This project is community-built and welcomes collaboration. Contributors are expected to adhere to the <a href="https://github.com/cncf/foundation/blob/master/code-of-conduct.md">CNCF Code of Conduct</a>.
 </p>
 <p>
-Jump into our <a href="http://slack.layer5.io">Slack</a>! Our projects are community-built and welcome collaboration. 👍Be sure to see the <a href="https://layer5.io/community/newcomers/">Layer5 Newcomers' Guide</a> for a tour of resources available to you.
+Jump into our <a href="http://slack.layer5.io">Slack</a>! Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://layer5.io/community/newcomers/">Layer5 Newcomers' Guide</a> for a tour of resources available to you and submit your <a href="https://layer5.io/newcomer">community member</a> for access to additional resources.
 </p>
 <p>
 <a href="https://layer5.io/community"><img alt="Layer5 Cloud Native Community" src="https://github.com/layer5io/.github/blob/master/assets/community.png" style="margin-right:10px;" width="125px" align="left" /></a>
