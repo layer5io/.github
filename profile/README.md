@@ -116,7 +116,7 @@ alt="Meshery - Cloud Native Management Plane" align="left" /></a>
 <a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
 style="margin:10px;" width="125px" 
 alt="MeshMap - Collaborative Cloud Native Manager" align="left" /></a>
-Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a>to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations.
+Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a> to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations. 
 <br /><br /><br />
 </p>
 <br />
