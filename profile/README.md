@@ -67,7 +67,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <table border="0" style="display:contents">
  <tr>
    <!-- Layer5 -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/layer5">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of Cloud Native standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5io">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of Cloud Native standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
    <!-- Meshery -->
    <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>As a self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
@@ -75,7 +75,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
   <tr></tr>
 <tr>
     <!-- MeshMap -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages">MeshMap</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs">MeshMap</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
     <!-- Layer5 Cloud -->
    <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
@@ -100,8 +100,8 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <h2><a href="https://layer5.io/meshery">Meshery</a></h2>
 <a href="https://meshery.io"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg"
 style="margin:10px;" width="125px" 
-alt="Meshery - Cloud Native Management Plane" align="left" /></a>
-<a href="https://meshery.io">Meshery</a> is a self-service engineering platform that enables collaborative design and operation of cloud native infrastructure.
+alt="Meshery - Collaborative Cloud Native Manager" align="left" /></a>
+<a href="https://meshery.io">Meshery</a> is a self-service engineering platform that enables collaborative design and operation of cloud and cloud native infrastructure.
 <br />
 <br />
 <a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery" alt="Help wanted in Meshery">
