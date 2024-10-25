@@ -74,8 +74,8 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
  </tr>
   <tr></tr>
 <tr>
-    <!-- MeshMap -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs">MeshMap</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/meshmap-color-icon.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
+    <!-- Kanvas -->
+   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs">Kanvas</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/kanvas-icon-color.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
     <!-- Layer5 Cloud -->
    <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
