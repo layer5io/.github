@@ -110,13 +110,13 @@ alt="Meshery - Collaborative Cloud Native Manager" align="left" /></a>
 </p>
 <br />
 
-<!-- MeshMap -->
+<!-- Kanvas -->
 <p style="clear:both;">
-<h2><a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a></h2>
-<a href="https://layer5.io/cloud-native-management/meshmap"><img src="/assets/meshmap-color-icon.svg"
+<h2><a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a></h2>
+<a href="https://layer5.io/cloud-native-management/kanvas"><img src="/assets/kanvas-icon-color.svg"
 style="margin:10px;" width="125px" 
-alt="MeshMap - Collaborative Cloud Native Manager" align="left" /></a>
-Use <a href="https://layer5.io/cloud-native-management/meshmap">MeshMap</a> to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations. 
+alt="Kanvas - Collaborative Cloud Native Manager" align="left" /></a>
+Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to drag-and-drop your cloud native infrastructure using a palette of thousands of versioned Kubernetes components. Say goodbye to YAML configurations. 
 <br /><br /><br />
 </p>
 <br />
