@@ -67,31 +67,35 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
 <table border="0" style="display:contents">
  <tr>
    <!-- Layer5 -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/layer5">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of Cloud Native standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
+   <td width="500px"><h2 align="center"><a href="https://github.com/layer5io/layer5">Layer5</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/5-light-bg.png" style="margin:10px;" width="85px" alt="Layer5" align="left" /></p><p>Layer5 helps you extract more value from your infrastructure. Creator and maintainer of Cloud Native standards.</p><p align="center"><a href="https://github.com/layer5io/layer5/graphs/contributors" alt="GitHub contributors">
      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" align="center"/></a></td>
    <!-- Meshery -->
-   <td width=500px><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>As a self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
+   <td width="500px"><h2 align="center"><a href="https://github.com/meshery">Meshery</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery" align="left" /></p><p>As an extensible, self-service engineering platform, Meshery enables collaborative design and operation of cloud native infrastructure.</p><p align="center"><a href="https://github.com/meshery/meshery/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/Meshery/meshery.svg" /></a></td>
  </tr>
-  <tr></tr>
-<tr>
-    <!-- Kanvas -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5labs">Kanvas</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/kanvas-icon-color.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
-<img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
+ <tr>
     <!-- Layer5 Cloud -->
-   <td width=500px><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
+   <td width="500px"><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
      <p align="center"><a href="https://github.com/layer5io/meshery-cloud/graphs/contributors" alt="GitHub contributors">
       <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a></p>
    </td>
-</tr>
+   <!-- Meshery Extensions-->
+   <td width="500px"><h2 align="center"><a href="https://github.com/meshery-extensions">Meshery Extensions</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery Extensions" align="left" /></p><p>A collection of extensions to Meshery.</p><p align="center"><a href="https://github.com/meshery-extensions" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery.svg" /></a></td>
+   
+ </tr>
+  
   <tr>
   <!-- Cloud Native Performance -->
-   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-performance">Cloud Native Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, cloud native infrastructure and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
+   <td width="500px"><h2 align="center"><a href="https://github.com/service-mesh-performance">Cloud Native Performance</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/smp-dark-text.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>A vendor-neutral specification for capturing details of environment and infrastructure, cloud native infrastructure and it’s configuration, and bundling of statistical analysis of the result.</p><p align="center"><a href="https://github.com/service-mesh-performance/service-mesh-performance/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-performance/service-mesh-performance.svg" /></a></p></td>
   <!-- Cloud Native Patterns -->
-   <td width=500px><h2 align="center"><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
+   <td width="500px"><h2 align="center"><a href="https://github.com/service-mesh-patterns">Cloud Native Patterns</a></h2><img src="https://raw.githubusercontent.com/service-mesh-patterns/service-mesh-patterns/master/.github/readme/images/service-mesh-pattern.png" style="margin:10px;" width="75px" alt="Meshery" align="left" /><p>A collection of functional examples to be used as patterns for operationalizing cloud native infrastruture and application deployments and applying best practices</p><p align="center"><a href="https://github.com/service-mesh-patterns/service-mesh-patterns/graphs/contributors" alt="GitHub contributors">
 <img src="https://img.shields.io/github/contributors/service-mesh-patterns/service-mesh-patterns.svg" /></a></p></td>
  </tr>
-   <tr>
+  <tr>
+<!-- Kanvas -->
+   <td width="500px" colspan="2"><h2 align="center"><a href="https://github.com/layer5labs">Kanvas</a></h3><img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/kanvas-icon-color.svg" style="margin:10px;" width="100px" alt="Layer5" align="left" /><p>Drag-and-drop your cloud native infrastructure using a pallete of thousands of versioned Kubernetes components.</p><p align="center" style="text-align:center;"><a href="https://www.youtube.com/watch?v=034nVaQUyME">project video</a><p align="center"><a href="https://github.com/layer5labs/meshery-extensions-packages/graphs/contributors" alt="GitHub contributors">
+<img src="https://img.shields.io/github/contributors/layer5labs/meshery-extensions-packages.svg" /></a></p></td>
+ </tr>
 </table>
 
 # Projects
