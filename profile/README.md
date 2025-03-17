@@ -79,7 +79,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
       <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a></p>
    </td>
    <!-- Meshery Extensions-->
-   <td width="500px"><h2 align="center"><a href="https://github.com/meshery-extensions">Meshery Extensions</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery Extensions" align="left" /></p><p>A collection of extensions to Meshery.</p><p align="center"><a href="https://github.com/meshery-extensions" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery.svg" /></a></td>
+   <td width="500px"><h2 align="center"><a href="https://github.com/meshery-extensions">Meshery Extensions</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-extensions-color.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery Extensions" align="left" /></p><p>A collection of extensions to Meshery.</p><p align="center"><a href="https://github.com/meshery-extensions" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery.svg" /></a></td>
    
  </tr>
   
