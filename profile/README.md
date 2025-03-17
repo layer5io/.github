@@ -59,8 +59,8 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 <p style="text-align:center;" align="center">
 <img src="https://raw.githubusercontent.com/layer5io/.github/master/assets/layer5-community-stats.png" style="text-align:center;" align="center" width="50%" />
 </p>
-
-See an <a href="https://layer5.io/community/handbook/repository-overview">overview of repositories</a> and projects by tech stack in the <a href="https://layer5.io/community/handbook/">Community Handbook</a>.
+<p align="center">
+See an <a href="https://layer5.io/community/handbook/repository-overview">overview of repositories</a> and projects by tech stack in the <a href="https://layer5.io/community/handbook/">Community Handbook</a>.</p>
 
 # GitHub Organizations
 
