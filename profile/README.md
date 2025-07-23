@@ -129,10 +129,8 @@ Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to dra
 <br />
 
 <!-- Layer5 Academy -->
-<div style="clear:both;">
-  <h2>
-    <a href="https://docs.layer5.io/cloud/academy/">Layer5 Academy</a>
-  </h2>
+<p style="clear:both;">
+  <h2><a href="https://docs.layer5.io/cloud/academy/">Layer5 Academy</a></h2>
 
   <a href="https://cloud.layer5.io/academy">
     <img src="/assets/layer5-academy-icon.svg"
@@ -141,18 +139,20 @@ Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to dra
          alt="Layer5 Academy - Learning Platform"
          align="left" />
   </a>
- <p>
-  <a href="https://cloud.layer5.io/academy/">Layer5 Academy</a> offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into Kubernetes, CNCF projects, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike.
+
+  <a href="https://cloud.layer5.io/academy/">Layer5 Academy</a> offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into Kubernetes, CNCF projects, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike.  
   You can explore all the 
   <a href="https://github.com/search?q=org%3Alayer5io+academy+in%3Aname&type=repositories">repositories here</a>.
-
-<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Alayer5io+academy" alt="Help Wanted in Academy">
-  <img 
-    alt="Help Wanted in Academy" 
-    src="https://img.shields.io/github/issues-search?label=Help%20Wanted&query=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22+org%3Alayer5io+academy">
-</a>
-<br/>
+  <br />
+  <br />
+  <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Alayer5io+academy" alt="Help Wanted in Academy">
+    <img 
+      alt="Help Wanted in Academy" 
+      src="https://img.shields.io/github/issues-search?label=Help%20Wanted&query=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22+org%3Alayer5io+academy">
+  </a>
+  <br />
 </p>
+
 
 <!-- Cloud Native Patterns -->
 <p style="clear:both;">
