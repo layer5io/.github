@@ -151,7 +151,7 @@ Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to dra
     alt="Help Wanted in Academy" 
     src="https://img.shields.io/github/issues-search?label=Help%20Wanted&query=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22+org%3Alayer5io+academy">
 </a>
-</br>
+<br/>
 
 <!-- Cloud Native Patterns -->
 <p style="clear:both;">
