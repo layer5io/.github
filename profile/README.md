@@ -308,4 +308,3 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/youtube
 <a href="https://hub.docker.com/u/layer5/"><img alt="docker_logo" 
 src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.svg"></a>
 </p>
-s
