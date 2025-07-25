@@ -1,3 +1,4 @@
+
   <p style="text-align:center;" align="center">
       <picture align="center">
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
@@ -114,6 +115,8 @@ alt="Meshery - Collaborative Cloud Native Manager" align="left" /></a>
 </p>
 <br />
 
+
+
 <!-- Kanvas -->
 <p style="clear:both;">
 <h2><a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a></h2>
@@ -124,6 +127,32 @@ Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to dra
 <br /><br /><br />
 </p>
 <br />
+
+<!-- Layer5 Academy -->
+<p style="clear:both;">
+  <h2><a href="https://docs.layer5.io/cloud/academy/">Layer5 Academy</a></h2>
+
+  <a href="https://cloud.layer5.io/academy">
+    <img src="/assets/layer5-academy-icon.svg"
+         style="margin:10px;"
+         width="125px"
+         alt="Layer5 Academy - Learning Platform"
+         align="left" />
+  </a>
+
+  <a href="https://cloud.layer5.io/academy/">Layer5 Academy</a> offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into Kubernetes, CNCF projects, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike.  
+  You can explore all the 
+  <a href="https://github.com/search?q=org%3Alayer5io+academy+in%3Aname&type=repositories">repositories here</a>.
+  <br />
+  <br />
+  <a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Alayer5io+academy" alt="Help Wanted in Academy">
+    <img 
+      alt="Help Wanted in Academy" 
+      src="https://img.shields.io/github/issues-search?label=Help%20Wanted&query=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22+org%3Alayer5io+academy">
+  </a>
+  <br />
+</p>
+
 
 <!-- Cloud Native Patterns -->
 <p style="clear:both;">
