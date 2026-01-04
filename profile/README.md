@@ -51,7 +51,7 @@ src="https://github.com/layer5io/.github/blob/master/assets/social-icons/docker.
 <a href="https://twitter.com/mesheryio" alt="Follow Meshery on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mesheryio?label=meshery&style=social"></a>
 
-<a href="https://twitter.com/smp_spec" alt="Follow Cloud Native Performance on Twitter">
+<a href="https://x.com/kanvas_new" alt="Follow Cloud Native Performance on Twitter">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smp_spec?label=Service%20Mesh%20Performance&style=social"></a>
 </p>
 
