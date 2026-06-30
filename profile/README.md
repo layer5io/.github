@@ -75,9 +75,7 @@ See an <a href="https://layer5.io/community/handbook/repository-overview">overvi
  </tr>
  <tr>
     <!-- Layer5 Cloud -->
-   <td width="500px"><h2 align="center"><a href="https://github.com/layer5io/meshery-cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
-     <p align="center"><a href="https://github.com/layer5io/meshery-cloud/graphs/contributors" alt="GitHub contributors">
-      <img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a></p>
+   <td width="500px"><h2 align="center"><a href="https://docs.layer5.io/cloud">Layer5 Cloud</a></h3><img src="https://github.com/layer5io/.github/blob/master/assets/layer5-cloud.svg" style="margin:10px;" width="85px" alt="Layer5" align="left" /><p><i>the</i> Meshery Remote Provider with identity and collaboration services, private catalogs, GitOps, and multi-Meshery management.</p>
    </td>
    <!-- Meshery Extensions-->
    <td width="500px"><h2 align="center"><a href="https://github.com/meshery-extensions">Meshery Extensions</a></h2><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-extensions-color.svg" style="margin:10px; padding:20px" width="75px" alt="Meshery Extensions" align="left" /></p><p>A collection of extensions to Meshery.</p><p align="center"><a href="https://github.com/meshery-extensions" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors/meshery-extensions/meshery.svg" /></a></td>
