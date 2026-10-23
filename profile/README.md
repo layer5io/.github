@@ -128,6 +128,21 @@ Use <a href="https://layer5.io/cloud-native-management/kanvas">Kanvas</a> to dra
 </p>
 <br />
 
+<!-- Sistent -->
+<p style="clear:both;">
+<h2><a href="https://layer5.io/projects/sistent">Sistent</a></h2>
+<a href="https://github.com/layer5io/sistent"><img src="https://raw.githubusercontent.com/layer5io/sistent/master/src/assets/logo/sistent_colored.svg"
+style="margin:10px;" width="125px"
+alt="Sistent - Open Source Design System" align="left" /></a>
+<a href="https://github.com/layer5io/sistent">Sistent</a> is an open source design system offering a collection of curated, reusable components, design tokens, and guidelines for building cohesive, accessible, and visually consistent user interfaces across Layer5 projects.
+<br />
+<br />
+<a href="https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fsistent" alt="Help wanted in Sistent">
+<img alt="Help wanted in Sistent" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+repo%3Alayer5io%2Fsistent'></a>
+<br />
+</p>
+<br />
+
 <!-- Layer5 Academy -->
 <p style="clear:both;">
   <h2><a href="https://docs.layer5.io/cloud/academy/">Layer5 Academy</a></h2>
