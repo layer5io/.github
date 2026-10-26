@@ -263,6 +263,18 @@ The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a compre
 </p>
 <br />
 
+<!-- Blowhorn -->
+<p style="clear:both;">
+<h2><a href="https://blowhorn.ai">Blowhorn</a></h2>
+<a href="https://blowhorn.ai"><img src="https://blowhorn.ai/assets/brand/logo/blowhorn-lockup-horizontal-on-dark.svg"
+style="margin:10px;" width="125px"
+alt="Blowhorn - Social Media Console" align="left" /></a>
+<a href="https://blowhorn.ai">Blowhorn</a> is a social media console that lets you broadcast, repost, and amplify one message across multiple profiles and platforms your community runs.
+<br />
+<br />
+</p>
+<br />
+
 <!-- <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">Service Mesh Interface Conformance </a></h2>
 <a href="https://layer5.io/smi"><img src="https://github.com/layer5io/.github/blob/master/assets/checklist.svg"
